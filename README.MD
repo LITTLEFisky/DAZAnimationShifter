@@ -1,0 +1,1 @@
+This is an addition for "PoserFormatExporter" script for DAZ Studio. If you are exporting animated range with it - your animation will  start from the selected in the script start frame. This program shifts all exported frames, so the animation starts from frame "0", and you can place it anywhere on the timeline
