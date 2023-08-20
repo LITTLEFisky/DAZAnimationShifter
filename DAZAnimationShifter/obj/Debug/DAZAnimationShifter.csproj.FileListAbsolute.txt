@@ -1,0 +1,11 @@
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\bin\Debug\DAZAnimationShifter.exe.config
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\bin\Debug\DAZAnimationShifter.exe
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\bin\Debug\DAZAnimationShifter.pdb
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.csproj.AssemblyReference.cache
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.csproj.SuggestedBindingRedirects.cache
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.Form1.resources
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.Properties.Resources.resources
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.csproj.GenerateResource.cache
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.csproj.CoreCompileInputs.cache
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.exe
+C:\Users\fisk\source\repos\DAZAnimationShifter\DAZAnimationShifter\obj\Debug\DAZAnimationShifter.pdb
